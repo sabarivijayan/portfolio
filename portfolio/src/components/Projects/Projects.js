@@ -36,7 +36,7 @@ function Projects() {
               title="Netflix Clone"
               description="Netflix Clone is a web application built using ReactJS, designed to mimic the popular streaming service, Netflix. Leveraging the power of a Movie API, this clone provides users with a seamless and dynamic interface to browse, search, and watch movie trailers."
               ghLink="https://github.com/sabarivijayan/netflix-react"
-              demoLink=""
+              demoLink="https://netflix-react-0u0q.onrender.com/"
             />
           </Col>
 
@@ -47,7 +47,7 @@ function Projects() {
               title="Spotify Clone"
               description="Spotify Clone is a web application developed using React and the Spotify API, designed to replicate the core features of the popular music streaming service, Spotify. This clone allows users to browse, search, and listen to their favorite tracks. A sleek, intuitive design modeled after Spotify, providing easy navigation and a visually appealing experience."
               ghLink="https://github.com/sabarivijayan/spotify-clone"
-              demoLink=""              
+              demoLink="https://spotify-clone-ta0d.onrender.com/"
             />
           </Col>
         </Row>
