@@ -15,6 +15,8 @@ import {
   SiHtml5,
   SiBootstrap,
   SiCss3,
+  SiGraphql,
+  SiNextdotjs
 } from "react-icons/si";
 
 
@@ -56,6 +58,12 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <DiJava />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiNextdotjs />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGraphql />
       </Col>
     </Row>
   );
