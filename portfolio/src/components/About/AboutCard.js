@@ -11,10 +11,10 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sabari Vijayan </span>
             from <span className="purple"> Thrissur, Kerala, India.</span>
             <br />
-            I am a fresher looking for opportunities in the IT industry.
+            I am a Full Stack Web Developer (MERN Stack) looking for opportunities to work.
             <br />
-            I have completed Integrated B.Tech in Electrical and Electronics Engineering at Federal Institute of Science and Technology
-            Ernakulam.
+            I have completed Integrated B.Tech in Electrical and Electronics Engineering at Federal Institute of Science and Technology, 
+            Ernakulam and currently working as a Developer at <span className="purple">Techfriar Technologies, Infopark, Kochi</span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

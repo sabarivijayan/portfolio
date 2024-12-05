@@ -47,8 +47,9 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js</b>
+                <b className="purple"> Next.js</b>
               </i>
+              &nbsp; and also trying to learn <i><b className="purple">Python</b></i> with <i><b className="purple">Django</b></i> on the side
             </p>
           </Col>
           <Col md={4} className="myAvtar">
