@@ -8,6 +8,13 @@ import {
   SiRender,
   SiFigma,
   SiAdobelightroom,
+  SiVercel,
+  SiGithub,
+  SiSwagger,
+  SiAntdesign,
+  SiDocker,
+  SiTrello,
+  SiSonarlint,
 } from "react-icons/si";
 
 function Toolstack() {
@@ -33,6 +40,27 @@ function Toolstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAdobelightroom />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiVercel />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiGithub />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSwagger />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiAntdesign />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDocker />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTrello />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSonarlint />
       </Col>
     </Row>
   );

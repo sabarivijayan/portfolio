@@ -16,7 +16,17 @@ import {
   SiBootstrap,
   SiCss3,
   SiGraphql,
-  SiNextdotjs
+  SiNextdotjs,
+  SiSequelize,
+  SiC,
+  SiPython,
+  SiDjango,
+  SiApollographql,
+  SiRedux,
+  SiFlutter,
+  SiDart,
+  SiTailwindcss,
+
 } from "react-icons/si";
 
 
@@ -64,6 +74,33 @@ function Techstack() {
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiGraphql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiSequelize />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDjango />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiPython />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiC />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiApollographql />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiRedux />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiFlutter />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiDart />
+      </Col>
+      <Col xs={4} md={2} className="tech-icons">
+        <SiTailwindcss />
       </Col>
     </Row>
   );
