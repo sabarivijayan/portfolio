@@ -19,37 +19,44 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am a classic example of "studied one field of engineering and finally ended up in the IT domain" guy 🤷‍♂️. Found myself dabbling in web technologies and decided to fully dive into it. 
+              I started my journey in Electrical and Electronics Engineering but
+              transitioned into the IT domain after discovering a strong interest
+              in software development and web technologies. What began as
+              exploration quickly turned into a focused career path.
               <br />
-              <br />I can find my way through classics like
+              <br />
+              I have a solid foundation in programming with
               <i>
-                <b className="purple"> Java and Javascript. </b>
+                <b className="purple"> Java and JavaScript</b>
               </i>
-              <br />
-              <br />
-              My field of interests are upskilling myself in new &nbsp;
-              <i>
-                <b className="purple">Web Technologies and Products </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Web Development.
-                </b>
-              </i>
-              <br />
-              <br />
-              Whenever possible, I try to apply my passion for developing products
-              with <b className="purple">Node.js</b> and
-              <i>
-                <b className="purple">
-                  {" "}
-                  Modern Javascript Library and Frameworks
-                </b>
-              </i>
-              &nbsp; like
+              , and I enjoy building full-stack applications using
+              <b className="purple"> Node.js</b> and modern frameworks like
               <i>
                 <b className="purple"> Next.js</b>
               </i>
-              &nbsp; and also trying to learn <i><b className="purple">Python</b></i> with <i><b className="purple">Django</b></i> on the side
+              .
+              <br />
+              <br />
+              I am particularly interested in developing scalable,
+              product-oriented solutions and continuously improving my
+              understanding of
+              <i>
+                <b className="purple"> web technologies and architecture</b>
+              </i>
+              .
+              <br />
+              <br />
+              I am committed to upskilling myself by learning new tools and
+              technologies in the web ecosystem. Currently, I am also expanding my
+              backend capabilities by exploring
+              <i>
+                <b className="purple"> Python</b>
+              </i>{" "}
+              with
+              <i>
+                <b className="purple"> Django</b>
+              </i>
+              .
             </p>
           </Col>
           <Col md={4} className="myAvtar">
