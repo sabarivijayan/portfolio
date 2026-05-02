@@ -19,44 +19,54 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I started my journey in Electrical and Electronics Engineering but
-              transitioned into the IT domain after discovering a strong interest
-              in software development and web technologies. What began as
-              exploration quickly turned into a focused career path.
+              I started out in Electrical and Electronics Engineering but
+              transitioned into software development after discovering a strong
+              interest in building real-world applications.
               <br />
               <br />
-              I have a solid foundation in programming with
+              Currently, I work across both mobile and backend development,
+              primarily using
+              <b className="purple"> Flutter</b> for building responsive mobile
+              applications and
               <i>
-                <b className="purple"> Java and JavaScript</b>
+                <b className="purple"> Node.js and Laravel</b>
+              </i>{" "}
+              for backend systems and APIs.
+              <br />
+              <br />
+              I enjoy working on end-to-end features — from designing clean user
+              interfaces to handling business logic, APIs, and database
+              interactions.
+              <br />
+              <br />
+              My core strengths lie in
+              <i>
+                <b className="purple">
+                  {" "}
+                  problem solving, debugging, and understanding system
+                  architecture
+                </b>
               </i>
-              , and I enjoy building full-stack applications using
-              <b className="purple"> Node.js</b> and modern frameworks like
+              , which I’ve developed through hands-on work with production
+              systems.
+              <br />
+              <br />
+              Lately, I’ve been focusing on improving my fundamentals through
+              <i>
+                <b className="purple"> Data Structures and Algorithms (DSA)</b>
+              </i>{" "}
+              while continuing to deepen my expertise in
+              <i>
+                <b className="purple"> Flutter and modern backend development</b>
+              </i>
+              .
+              <br />
+              <br />
+              I also explore technologies like
               <i>
                 <b className="purple"> Next.js</b>
-              </i>
-              .
-              <br />
-              <br />
-              I am particularly interested in developing scalable,
-              product-oriented solutions and continuously improving my
-              understanding of
-              <i>
-                <b className="purple"> web technologies and architecture</b>
-              </i>
-              .
-              <br />
-              <br />
-              I am committed to upskilling myself by learning new tools and
-              technologies in the web ecosystem. Currently, I am also expanding my
-              backend capabilities by exploring
-              <i>
-                <b className="purple"> Python</b>
               </i>{" "}
-              with
-              <i>
-                <b className="purple"> Django</b>
-              </i>
-              .
+              to stay aligned with modern web development practices.
             </p>
           </Col>
           <Col md={4} className="myAvtar">
