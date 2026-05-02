@@ -11,17 +11,17 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Sabari Vijayan </span>
             from <span className="purple"> Thrissur, Kerala, India.</span>
             <br />
-            I am a Full Stack Web Developer (MERN Stack) looking for opportunities to work.
+            I am a Full Stack Web Developer currently working on Flutter, NodeJs, Laravel, Python and NextJs and am looking for oppurtunities to work in the same domain.
             <br />
             I have completed Integrated B.Tech in Electrical and Electronics Engineering at Federal Institute of Science and Technology, 
-            Ernakulam and currently working as a Developer at <span className="purple">Techfriar Technologies, Infopark, Kochi</span>.
+            Ernakulam and currently working as a Junior Developer at <span className="purple">Court Click, Panampilly Nagar, Kochi</span>.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
           </p>
           <ul>
             <li className="about-activity">
-              <ImPointRight /> Playing Games
+              <ImPointRight /> Playing Video Games
             </li>
             <li className="about-activity">
               <ImPointRight /> Playing Badminton
